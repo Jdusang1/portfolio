@@ -1,0 +1,46 @@
+
+
+body {
+    background-color: rgb(252, 216, 143);
+}
+
+h1 {
+    
+    color: black;
+    text-align: left;
+    text-
+    text-decoration: underline;
+}
+.container {
+    color: black;
+    
+
+}
+.navbar-brand {
+    font-size: 36px;
+
+}
+
+.navbar-expand-lg {
+    background: none;
+    color: white;
+    margin-top: 3px;
+}
+
+.nav-item {
+    font-size: 28px;
+    color: white;
+
+}
+
+P { 
+    margin-top: 12px;
+    background-color: white;
+}
+
+#surf-photo { 
+    margin-top: 12px;
+    height: 200px;
+    width: 200px;
+}
+
