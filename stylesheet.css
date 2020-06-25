@@ -4,16 +4,21 @@ body {
     background-color: rgb(252, 216, 143);
 }
 
-.card { 
-    background: #212529;
 
 
+#about-me-card {
+    background: #212529
 }
 
-.card-text {
+#card-text {
     background-color: none;
-
+} 
+#footer {
+    background: #212529;
+    color: #212529;
+    border-style: solid;
 }
+
 
 h1 {
     font-size: 38px;
