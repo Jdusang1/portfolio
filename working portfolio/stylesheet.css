@@ -4,18 +4,31 @@ body {
     background-color: rgb(252, 216, 143);
 }
 
-h1 {
-    
-    color: black;
-    text-align: left;
-    text-
-    text-decoration: underline;
-}
-.container {
-    color: black;
-    
+.card { 
+    background: #212529;
+
 
 }
+
+.card-text {
+    background-color: none;
+
+}
+
+h1 {
+    font-size: 38px;
+    color:#ffff;
+    text-align: left;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #ffff;
+    font-size: 18px;
+    text-align: center;
+    
+}
+
 .navbar-brand {
     font-size: 36px;
 
@@ -35,7 +48,8 @@ h1 {
 
 P { 
     margin-top: 12px;
-    background-color: white;
+    background-color: none;
+    color: rgb(255,255,255,.5)
 }
 
 #surf-photo { 
