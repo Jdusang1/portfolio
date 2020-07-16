@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: rgb(252, 216, 143);
+    background-color: white;
 }
 
 
@@ -35,14 +35,17 @@ h3 {
 
 .navbar-brand {
     font-size: 36px;
-
-}
-
-.navbar-expand-lg {
     background: none;
     color: white;
     margin-top: 3px;
+
 }
+
+/* .navbar-expand-lg {
+    background: none;
+    color: white;
+    margin-top: 3px;
+} */
 
 .nav-item {
     font-size: 28px;
@@ -61,4 +64,12 @@ p {
     height: 200px;
     width: 200px;
 }
+
+#linkedIn {
+    font-size: 36px;
+
+}
+
+
+
 
