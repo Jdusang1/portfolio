@@ -3,7 +3,9 @@
 body {
     background-color: white;
 }
-
+#about-text{
+    color: white;
+}
 
 
 #about-me-card {
@@ -12,8 +14,10 @@ body {
 
 #card-text {
     background-color: none;
+    color: black;
 } 
 #footer {
+    margin margin-top: 60px;
     background: #212529;
     color: #212529;
     border-style: solid;
@@ -60,14 +64,13 @@ p {
 }
 
 #surf-photo { 
-    margin-top: 12px;
+    margin: 12px;
     height: 200px;
     width: 200px;
 }
 
 #linkedIn {
     font-size: 36px;
-
 }
 
 
