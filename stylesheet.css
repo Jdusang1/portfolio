@@ -12,12 +12,12 @@ body {
     background: #212529
 }
 
-#card-text {
+.card-text {
     background-color: none;
     color: black;
 } 
 #footer {
-    margin margin-top: 60px;
+   margin-top: 60px;
     background: #212529;
     color: #212529;
     border-style: solid;
